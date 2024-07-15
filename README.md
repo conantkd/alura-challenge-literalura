@@ -10,15 +10,17 @@ Uso
 Opciones del Menú
 Contribuciones
 Licencia
-:star: Características
-Tecnologías Utilizadas:
-Java 17
-SpringBoot 3
+
+# :star: Características
+Tecnologías Utilizadas:<p>
+Java 17<p>
+SpringBoot 3<p>
+
 Dependencias:
-Lombok
-Jackson
-PostgreSQL
-Spring Data JPA
+Lombok<p>
+Jackson<p>
+PostgreSQL<p>
+Spring Data JPA<p>
 
 # Funcionalidades:
 
