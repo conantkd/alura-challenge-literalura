@@ -31,7 +31,9 @@ public class Libro {
         this.numeroDescargas = datosLibro.numeroDescargas();
         this.autor = datosLibro.autores().stream().map(Autor::new).toList().get(0);
 
-    }
+        }
+
+
 
     public Autor getAutor() {
         return autor;
@@ -50,12 +52,13 @@ public class Libro {
         autor.getLibros().add(this);
     }
 
+
     @Override
     public String toString() {
         return "*********LIBRO*********\n"+
                 "Titulo: " + titulo + "\n" +
                 "Autor: " + autor.getNombre() + "\n" +
-                "Idioma: " + idioma + "\n" +
+                "Idioma: " + idioma.toUpperCase()+ "\n" +
                 "Numero de descargas: " + numeroDescargas + "\n" +
                 "**********************";
 
