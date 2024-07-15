@@ -41,12 +41,12 @@ Una vez que la aplicación esté en funcionamiento, podrás interactuar con ella
 
 El menú principal permite al usuario seleccionar diferentes opciones para interactuar con la aplicación:
 
-Buscar libro por título: Permite buscar un libro por su título y muestra los detalles del libro encontrado.
-Listar libros registrados: Muestra una lista de todos los libros registrados en la base de datos.
-Listar autores registrados: Muestra una lista de todos los autores registrados en la base de datos.
-Listar autores vivos en un determinado año: Permite listar los autores que estaban vivos en un año específico.
-Listar libros por idioma: Permite listar los libros disponibles en un idioma específico.
-Salir: Cierra la aplicación.
+Buscar libro por título: Permite buscar un libro por su título y muestra los detalles del libro encontrado.<p>
+Listar libros registrados: Muestra una lista de todos los libros registrados en la base de datos.<p>
+Listar autores registrados: Muestra una lista de todos los autores registrados en la base de datos.<p>
+Listar autores vivos en un determinado año: Permite listar los autores que estaban vivos en un año específico.<p>
+Listar libros por idioma: Permite listar los libros disponibles en un idioma específico.<p>
+Salir: Cierra la aplicación.<p>
 
 # :handshake: Contribuciones
 
