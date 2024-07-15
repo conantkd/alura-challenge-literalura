@@ -1,4 +1,4 @@
-## LiterAlura
+<h1>## LiterAlura</h1>
 
 Este sistema está desarrollado para potenciar la exploración y organización de obras literarias mediante una interfaz de programación vía consola de Comandos. Facilita a los lectores realizar diversas funciones a través de un panel interactivo, brindando un método ágil y práctico para obtener información sobre textos y autores.
 
